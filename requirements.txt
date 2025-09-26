@@ -1,0 +1,7 @@
+streamlit
+pandas
+tensorflow
+scikit-learn
+spacy
+wordcloud
+matplotlib
