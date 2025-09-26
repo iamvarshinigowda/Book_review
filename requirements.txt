@@ -1,7 +1,11 @@
 streamlit
 pandas
-tensorflow
+numpy
 scikit-learn
-spacy
-wordcloud
 matplotlib
+seaborn
+wordcloud
+spacy
+tensorflow
+# spaCy English model
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
